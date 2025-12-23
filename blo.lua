@@ -1,2 +1,2 @@
-print(get_hwid())
-print(gethwid())
+print(getgenv().get_hwid())
+print(getgenv().gethwid())
